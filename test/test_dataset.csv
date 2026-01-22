@@ -1,0 +1,5 @@
+log_message
+"""User: in-band-user, IP: 10.10.200.101, Protocol: http - While attempting to establish a connection to /redfish/v1/SessionService/Sessions, the service was denied access."""
+"""User: in-band-user, IP: 169.254.0.18, Protocol: http - Access to the resource located at /Systems/1/Bios/Actions/Bios.ChangePassword was allowed."""
+"""Access to the resource located at /Systems/1/Bios/Actions/Bios.ChangePassword was allowed."""
+"""Access to the resource located at /Systems/1/Bios/SD was allowed"""
