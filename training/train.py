@@ -28,7 +28,6 @@ import re
 
 if __name__ == "__main__":
     df = pd.read_csv("dataset/redfish_logs.csv")
-
     model = SentenceTransformer('all-MiniLM-L6-v2')  # Lightweight embedding model
     embeddings = model.encode(df['log_message'].tolist())
     clustering = DBSCAN(eps=0.2, min_samples=1, metric='cosine').fit(embeddings)
