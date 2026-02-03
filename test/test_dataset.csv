@@ -3,3 +3,4 @@ log_message
 """User: in-band-user, IP: 169.254.0.18, Protocol: http - Access to the resource located at /Systems/1/Bios/Actions/Bios.ChangePassword was allowed."""
 """Access to the resource located at /Systems/1/Bios/Actions/Bios.ChangePassword was allowed."""
 """Access to the resource located at /Systems/1/Bios/SD was allowed"""
+"""Event_Data_1 : 0, Sensor_Number : 255, Event_Dir : Deassertion event, Event_Data_2 : 0, Timestamp : 2023-04-01T19:34:07+00:00, EvM_Rev : IPMI v2.0 Event Messages, Sensor_Type : PowerUnit, Event_Data_3 : 0, Event_Type : Power Off / Power Down, Record_ID : 26, Generator_ID : 0x2000, """
